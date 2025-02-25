@@ -1,0 +1,7 @@
+[package]
+name = "solana-torus-fork"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-program = { version = "1.9.3", features = ["full"] }
